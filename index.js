@@ -1,1 +1,5 @@
-const a = 3
+const a = 3;
+
+let s = 'a';
+
+const c = 1;
